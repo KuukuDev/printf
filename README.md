@@ -1,2 +1,2 @@
 0x11. C - printf
-Collaborators - Kuuku Buabeng, James Aidoo
+Collaborators - Kuuku Buabeng, James Christian Aidoo
